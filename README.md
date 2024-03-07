@@ -1,7 +1,7 @@
 # Real World Marine Markers Custom Dataset YOLOv5 Training
 
 ## Welcome
-Welcome to the *real_world_marine_markers_custom_dataset_yolov5_training* repository! This project focuses on training YOLOv5 models using a custom dataset of real-life images of marine markers. Our objective is to enhance object detection in marine environments, contributing to safer marine navigation and advanced research.
+Welcome to the *real_world_marine_markers_custom_dataset_yolov5_training* repository!This project focuses on training YOLOv5 models using a custom dataset of real-life images of marine markers for the [Roboboat](https://robonation.org/programs/roboboat/) compettion. Our objective is to enhance object detection in marine environments, contributing to safer marine navigation and advanced research.
 
 ## About the Project
 We utilize [Roboflow](https://roboflow.com/) for annotating and labeling images, ensuring precise and efficient dataset preparation. Our project on Roboflow can be accessed at [Gazebo Simulation Marine Markers Image Dataset](https://app.roboflow.com/icebergasv-ab2fn/roboboat-2024-marine-markers/annotate)) in [Roboflow Universe](https://universe.roboflow.com/).
