@@ -76,3 +76,8 @@ Training and validation losses decrease and plateau, precision and recall are hi
 
 ## Dataset Annotation and Labelling Documentation
 For a comprehensive understanding of our dataset creation, annotation, labelling process, and training methodologies, please refer to our detailed documentation available in our [Gitbook](https://app.gitbook.com/o/vtYvioW5qkBb75Erv7gv/s/OCTt5VIaAFBF4m37LLUi/computer-vision/dataset-creation).
+
+# Mark I Performance
+
+![Screenshot 2024-07-01 at 5 20 45 PM](https://github.com/IcebergASV/real_world_marine_markers_custom_dataset_yolov5_training/assets/92492748/05fefb94-1877-4b2b-bf45-5b95605e2c0d)
+
