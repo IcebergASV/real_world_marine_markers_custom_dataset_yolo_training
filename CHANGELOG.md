@@ -26,7 +26,7 @@ We adhere to the layout of ["Keep a Changelog"](https://keepachangelog.com/en/1.
 ## [1.1.0] - 2024-11-20
 
 ### Changed
-* Changed saving format of notebooks to Marine Markers Custom Dataset to it's acronym MMCD.
+* Changed the saving format of notebooks to Marine Markers Custom Dataset to its acronym MMCD.
 
 ## [1.0.0] - 2024-10-04
 
