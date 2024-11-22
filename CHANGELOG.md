@@ -6,7 +6,7 @@ We are following the layout of ["keep a change log"](https://keepachangelog.com/
 
 **Note:** Iceberg ASV transitioned to using YOLOv8 for the summer competion of Njord Challenge 2024. This notebook will start tracking versions from then.
 
-## 1.0.0 - 2024-10-04
+## [1.0.0] - 2024-10-04
 
 ### Added
 * Description: Added weight and notebook file for version 1 of YOLOv8
