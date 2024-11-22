@@ -23,6 +23,10 @@ We adhere to the layout of ["Keep a Changelog"](https://keepachangelog.com/en/1.
     * Technique: Auto-labelling and manual revision of labels. Some images had a bounding box with the buoy reflection on the water.
     * Changes: NA
 
+## [1.1.0] - 2024-11-20
+
+### Changed
+* Changed saving format of notebooks to Marine Markers Custom Dataset to it's acronym MMCD.
 
 ## [1.0.0] - 2024-10-04
 
