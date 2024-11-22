@@ -2,7 +2,7 @@
 
 Every notebook and weight file added/modified/removed from this repo will be documented in this file.
 
-We are following the layout of ["keep a change log"](https://keepachangelog.com/en/1.1.0/), and we follow the [Semnatinc](https://semver.org/) versioning format. 
+We are following the layout of ["keep a change log"](https://keepachangelog.com/en/1.1.0/), and we follow the [Semnatic](https://semver.org/) versioning format. 
 
 **Note:** Iceberg ASV transitioned to using YOLOv8 for the summer competion of Njord Challenge 2024. This notebook will start tracking versions from then.
 
