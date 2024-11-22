@@ -6,8 +6,7 @@ We adhere to the layout of ["Keep a Changelog"](https://keepachangelog.com/en/1.
 
 **Note:** Iceberg ASV transitioned to using YOLOv8 for the summer competion of Njord Challenge 2024. This notebook will start tracking versions from then.
 
-
-## [2.0.0] - 2024-11-20
+## [3.0.0] - 2024-11-22
 
 ### Added
 * Description: Added weight and notebook file for version 2 of YOLOv8
@@ -23,7 +22,24 @@ We adhere to the layout of ["Keep a Changelog"](https://keepachangelog.com/en/1.
     * Technique: Auto-labelling and manual revision of labels. Some images had a bounding box with the buoy reflection on the water.
     * Changes: NA
 
-## [1.1.0] - 2024-11-20
+
+## [2.0.0] - 2024-11-21
+
+### Added
+* Description: Added weight and notebook file for version 2 of YOLOv8
+* Dataset Information: [November 20 2024 Adding Testing Annotations - With Augmen.](https://universe.roboflow.com/icebergasv/roboboat-marine-objects/dataset/3)
+  * Source Details: Testing Rosbags `oct5/1969-12-31-21-22-12` and `oct5/1969-12-31-21-30-14`. Raw Rosbags in `Iceberg ASV Rosbag SSD.`
+  * Preprocessing: Auto-Orient - Applied, Resize: Stretch to 640x640
+  * Augmentations: Saturation: Between -25% and +25%, Brightness: Between -15% and +15%, Blur: Up to 1px
+  * Forked Source: NA
+  * Cloned Source:  NA
+    * Image Range: NA
+    * Annotations Included: NA
+  * Annotations Information:
+    * Technique: Auto-labelling and manual revision of labels. Some images had a bounding box with the buoy reflection on the water.
+    * Changes: NA
+
+## [1.1.0] - 2024-11-21
 
 ### Changed
 * Changed the saving format of notebooks to Marine Markers Custom Dataset to its acronym MMCD.
