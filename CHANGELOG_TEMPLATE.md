@@ -14,4 +14,6 @@ We adhere to the layout of ["Keep a Changelog"](https://keepachangelog.com/en/1.
   * Cloned Source:  Link to the source dataset from which images were cloned on Roboflow Universe.
     * Image Range: Specify the range of images cloned, if applicable.
     * Annotations Included: Indicate whether the images were cloned with annotations (Yes/No).
-  * Changes in Annotations: Specify whether any changes were made to the annotations (Yes/No). Provide details if applicable.
+  * Annotations Information:
+    * Technique: Explain the technique used for labelling. Example: "Auto-labeling with manual revision. Bounding boxes include buoy reflections on the water.
+    * Changes: Indicate if changes were made to annotations.
