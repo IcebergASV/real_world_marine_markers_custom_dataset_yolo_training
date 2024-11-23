@@ -29,8 +29,6 @@ This repository serves not just as a codebase but also as a living document of o
 - **Jupyter Notebooks**: Comprehensive guides on training the YOLOv5 model with our custom dataset.
 - **Training Weights**: We store the weights of our YOLOv5 models here post-training. These weights are ready for use in object detection tasks or further fine-tuning.
 
-## Training Graphs For Model Evaluation Version ?
-
 ### Criteria for Training
 
 ## Training Graphs For Model Evaluation Explained
